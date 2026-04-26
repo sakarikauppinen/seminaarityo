@@ -1,5 +1,8 @@
 # Seminaarityö: Selainpohjainen tietovisasovellus Next.js:llä ja TypeScriptillä
 
+## Linkki githubiin: 
+https://github.com/sakarikauppinen/seminaarityo
+
 ## 0. Esittelyvideo
 
 Latasin seminaarityön esittelyvideon YouTubeen piilotettuna. Videon voi katsoa tästä linkistä:(https://youtu.be/sD9m0Sd3qXo)
