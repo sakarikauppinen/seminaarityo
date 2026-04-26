@@ -199,7 +199,7 @@ Haasteita ei ollut paljoa, mutta projektirakenteen saaminen oikeaan muotoon App 
 
 Lopuksi voin todeta, että toteutus vastaa hyvin tavoitetta ja opin Nextiasta ja TS:n käytöstä taas lisää.
 
-## 9. KÄynnistäminen
+## 9. Käynnistäminen
 Projekti käynnistyy:
 - `npm install`
 - `npm run dev`
