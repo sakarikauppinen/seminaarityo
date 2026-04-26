@@ -201,8 +201,8 @@ Lopuksi voin todeta, että toteutus vastaa hyvin tavoitetta ja opin Nextiasta ja
 
 ## 9. KÄynnistäminen
 Projekti käynnistyy:
-- 'npm install'
-- 'npm run dev'
+- `npm install`
+- `npm run dev`
 
 ## 10. Lähteet
 
