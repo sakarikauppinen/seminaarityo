@@ -151,13 +151,13 @@ Näyttää lopputuloksen ja painikkeen uuden kierroksen aloittamiseen.
 components/Tietovisa.tsx
 Tietovisan pääkomponentti, joka:
 
--hakee kysymykset API-reitiltä
--sekoittaa kysymyslistan
--valitsee 10 satunnaista kysymystä yhtä kierrosta varten
--kontrolloi kysymyksiä
--tarkistaa vastaukset
--laskee pisteet
--näyttää lopputuloksen
+- hakee kysymykset API-reitiltä
+- sekoittaa kysymyslistan
+- valitsee 10 satunnaista kysymystä yhtä kierrosta varten
+- kontrolloi kysymyksiä
+- tarkistaa vastaukset
+- laskee pisteet
+- näyttää lopputuloksen
 
 app/page.tsx
 Sovelluksen etusivu, joka renderöi Tietovisa-komponentin.
@@ -187,12 +187,12 @@ Miten sovellus etenee:
 ## 8. Mitä opin työn aikana
 Työn aikana opin erityisesti seuraavia asioita:
 
--miten Next.js:n App Router -rakenne toimii käytännössä?
--miten route handler toteutetaan
--milloin komponentti tehdään client-komponenttina
--miten TypeScript auttaa datan käsittelyssä
--miten sovellus jaetaan selkeisiin komponentteihin
--miten satunnainen kysymys voidaan toteuttaa
+- miten Next.js:n App Router -rakenne toimii käytännössä?
+- miten route handler toteutetaan
+- milloin komponentti tehdään client-komponenttina
+- miten TypeScript auttaa datan käsittelyssä
+- miten sovellus jaetaan selkeisiin komponentteihin
+- miten satunnainen kysymys voidaan toteuttaa
 
 Opin myös, että kun Kysymys-tyyppi oli määritelty heti alussa, käyttöliittymälogiikka oli ehkä helpompi rakentaa sen päälle.
 Toinen hyödyllinen asia oli se, että projekti kannattaa toteuttaa jotenkin loogisissa vaiheissa. Aloitin nyt datan rakenteesta ja API-reitistä, minkä jälkeen rakensin käyttöliittymän osat ja lopuksi viimeistelin visuaalisesti
